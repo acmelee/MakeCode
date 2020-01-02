@@ -53,7 +53,12 @@ namespace MakeCode {
     //% block="ooooooopen gate"
     //% weight=90
     export function ooopenDoor() {
-        completeTask()
+        mobs.execute(
+            mobs.target(TargetSelectorKind.NearestPlayer),
+            positions.create(0, 0, 0),
+            "say hi"
+        
+        )
     }
 
     /**
