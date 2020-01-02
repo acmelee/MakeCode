@@ -1,0 +1,17 @@
+MC102EXT.agentAnalyze(SixDirection.Forward);
+MC102EXT.agentDetectDryFern(SixDirection.Forward);
+MC102EXT.agentDetectDryGrass(SixDirection.Forward);
+MC102EXT.agentDetectDryBrush(SixDirection.Forward);
+MC102EXT.hazardsRemainL4();
+MC102EXT.hazardsRemainL5();
+MC102EXT.hazardsRemainL6();
+MC102EXT.agentDestroyL4(SixDirection.Forward);
+MC102EXT.agentDestroyL5(SixDirection.Forward);
+MC102EXT.agentDestroyL6(SixDirection.Forward);
+MC102EXT.ooopenDoor();
+MC102EXT.sayhi();
+MC102EXT.completeTask();
+MC102EXT.agentLookForHazards();
+MC102EXT.agentSeeHazard();
+MC102EXT.alertTeam();
+MC102EXT.fakePlace(Block.Grass, SixDirection.Forward);
