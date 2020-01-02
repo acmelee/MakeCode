@@ -1,0 +1,19 @@
+{
+  "MakeCode.agentAnalyze|block": " 代理分析 %dir",
+  "MakeCode.agentDestroyL4|block": "代理摧毁 %dir",
+  "MakeCode.agentDestroyL5|block": "代理摧毁 %dir",
+  "MakeCode.agentDestroyL6|block": "代理摧毁 %dir",
+  "MakeCode.agentDetectDryBrush|block": "代理检测干燥灌木 %dir",
+  "MakeCode.agentDetectDryFern|block": "代理检测干燥蕨 %dir",
+  "MakeCode.agentDetectDryGrass|block": "代理检测干草 %dir",
+  "MakeCode.agentLookForHazards|block": "代理查找危险",
+  "MakeCode.agentSeeHazard|block": "发现危险",
+  "MakeCode.alertTeam|block": "警告团队",
+  "MakeCode.hazardsRemainL4|block": "危险仍然存在",
+  "MakeCode.hazardsRemainL5|block": "危险仍然存在",
+  "MakeCode.hazardsRemainL6|block": "危险仍然存在",
+  "MakeCode.ooopenDoor|block": "打开门",
+  "MakeCode.sayhi|block": "你好",
+  "MakeCode|block": "MakeCode",
+  "{id:category}MakeCode": "MakeCode"
+}
