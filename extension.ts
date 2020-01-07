@@ -19,6 +19,7 @@ namespace MakeCode102 {
     let brokeNonHazard = false
     let taskIsComplete = false
     let monitorCount = 18
+    
 
     // hidden from user, used by other functions
     //% block
@@ -61,7 +62,7 @@ namespace MakeCode102 {
         )
     }
 
-
+    let bag = 0
 
 
     /**
@@ -69,7 +70,7 @@ namespace MakeCode102 {
      */
     //% block="检查代理背包"
     //% weight=90
-    export function detectbag(bag) {
+    export function detectbag() {
         
 
         return agent.getitemcount(bag)
