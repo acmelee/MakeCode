@@ -10,6 +10,7 @@ MakeCode102.agentDestroyL5(SixDirection.Forward);
 MakeCode102.agentDestroyL6(SixDirection.Forward);
 MakeCode102.ooopenDoor();
 MakeCode102.sayhi();
+MakeCode102.detectbag();
 MakeCode102.completeTask();
 MakeCode102.agentLookForHazards();
 MakeCode102.agentSeeHazard();
