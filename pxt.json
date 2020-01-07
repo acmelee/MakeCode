@@ -1,5 +1,5 @@
 {
-    "name": "MakeCode",
+    "name": "MakeCode102",
     "version": "0.0.1",
     "description": "Support for MakeCode 102",
     "license": "MIT",
@@ -11,10 +11,10 @@
         "extension.ts",
         "enums.d.ts",
         "icon.png",
-        "_locales/zh-CN/minecraft-MakeCode-jsdoc-strings.json",
-        "_locales/zh-CN/minecraft-MakeCode-strings.json",
-        "_locales/en-GB/minecraft-MakeCode-jsdoc-strings.json",
-        "_locales/en-GB/minecraft-MakeCode-strings.json"
+        "_locales/zh-CN/minecraft-MakeCode102-jsdoc-strings.json",
+        "_locales/zh-CN/minecraft-MakeCode102-strings.json",
+        "_locales/en-GB/minecraft-MakeCode102-jsdoc-strings.json",
+        "_locales/en-GB/minecraft-MakeCode102-strings.json"
   
     ],
     "testFiles": [
