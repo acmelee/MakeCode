@@ -1,6 +1,6 @@
 {
     "name": "MakeCode102",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Support for MakeCode 102",
     "license": "MIT",
     "dependencies": {
