@@ -61,6 +61,21 @@ namespace MakeCode102 {
         )
     }
 
+
+
+
+    /**
+     * 检查代理背包
+     */
+    //% block="检查代理背包"
+    //% weight=90
+    export function detectbag(bag) {
+        
+
+        return agent.getitemcount(bag)
+    }
+
+
     /**
      * Detects if there is a dry fern next to the agent in the specified direction
      * @param dir the direction to detect the dry fern
