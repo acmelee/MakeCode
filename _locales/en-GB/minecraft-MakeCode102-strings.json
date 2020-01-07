@@ -14,6 +14,7 @@
   "MakeCode102.hazardsRemainL6|block": "hazards remain",
   "MakeCode102.ooopenDoor|block": "open door",
   "MakeCode102.sayhi|block": "say hi",
+  "MakeCode102.detectbag|block": "检查代理背包",
   "MakeCode102|block": "MakeCode102",
   "{id:category}MakeCode102": "MakeCode102"
 }
